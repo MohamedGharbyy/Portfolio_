@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
           </h1>
           <p className="text-lg text-slate-600 max-w-2xl mb-10 leading-relaxed">
             I'm Mohamed Gharbi, a 1st-year engineering student at École Polytechnique de Sousse. 
-            I specialize in web development, computer systems, and cybersecurity, turning 
+            I specialize in software development, problem-solving, and technical project execution, turning 
             complex challenges into efficient digital solutions.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4 justify-center md:justify-start">
