@@ -23,7 +23,7 @@ const Resume: React.FC = () => {
           
           <div className="relative z-10 flex flex-col gap-4">
             <a
-              href="/resume.pdf"
+              href="resume.pdf"
               download
               className="px-10 py-5 bg-blue-600 text-white rounded-2xl font-bold flex items-center justify-center gap-3 hover:bg-blue-500 transition-all shadow-xl shadow-blue-900/40 active:scale-95"
             >
