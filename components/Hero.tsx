@@ -52,7 +52,7 @@ const Hero: React.FC = () => {
             
             <div className="w-full h-full rounded-[3rem] overflow-hidden shadow-2xl border-4 border-white">
               <img
-                src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1000&auto=format&fit=crop"
+                src="Screenshot 2025-09-17 184204.png"
                 alt="Mohamed Gharbi"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
