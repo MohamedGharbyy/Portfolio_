@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
               />
             </div>
             
-            <div className="absolute bottom-8 right-4 glass p-4 rounded-2xl shadow-xl hidden lg:block" animate-bounce>
+            <div className="absolute bottom-8 right-4 glass p-4 rounded-2xl shadow-xl hidden lg:block animate-bounce">
                 <div className="flex items-center gap-3">
                     <div className="w-10 h-10 rounded-lg bg-green-100 flex items-center justify-center">
                         <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" /></svg>
